@@ -4,7 +4,7 @@
 
 📝 I enjoy bringing fun project ideas to life and [writing about them](https://outlandnish.com/hacks)
 
-🚵‍♀️ You'll [find me oudoors](https://instagram.com/outlandnish) hiking, mountain biking, snowboarding, or e-skating
+🚵‍♀️ You'll [find me outdoors](https://instagram.com/outlandnish) hiking, mountain biking, snowboarding, or e-skating
 
 🏎 I'm a grassroots racing driver and driving coach. I try my best to make related technology [more accessible](https://outlandnish.racing)
 
