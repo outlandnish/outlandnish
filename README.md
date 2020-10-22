@@ -12,13 +12,17 @@
 
 ### Projects I'm working on (and would love collaborators!)
 
-- The [firmware](https://github.com/intentfulmotion/fw-amp), [web app](https://github.com/intentfulmotion/www-amp-mixer), and [hardware](https://github.com/intentfulmotion/hw-amp) for the Amp, my smart lighting product
+#### The Amp
+The [firmware](https://github.com/intentfulmotion/fw-amp), [web app](https://github.com/intentfulmotion/www-amp-mixer), and [hardware](https://github.com/intentfulmotion/hw-amp) for the Amp, my smart lighting product
 
-- [ext-f1-tv](https://github.com/outlandnish/ext-f1-tv) to modernize F1 TV and [f1tv-cast-receiver](https://github.com/outlandnish/f1tv-cast-receiver) to enable Chromecast support
+#### F1 TV Playback Controls
+[ext-f1-tv](https://github.com/outlandnish/ext-f1-tv) to modernize F1 TV and [f1tv-cast-receiver](https://github.com/outlandnish/f1tv-cast-receiver) to enable Chromecast support
 
-- [Ghost Drive](https://github.com/outlandish/fw-ghost-drive): Macchina M2 firmware to convert your [car into a sim racing controller](https://outlandnish.com/blog/ditch-the-sim-rig-use-your-car-instead)
+#### Ghost Drive
+[Ghost Drive](https://github.com/outlandish/fw-ghost-drive): Macchina M2 firmware to convert your [car into a sim racing controller](https://outlandnish.com/blog/ditch-the-sim-rig-use-your-car-instead)
 
-- any digital art installations or immersive physical / digital experiences!
+#### Immersive physical / digital experiences
+Anything from laser harps to window displays to fun combinations of mixed reality and physical props
 
 ### The Useful Bits
 
