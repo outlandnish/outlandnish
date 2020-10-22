@@ -2,7 +2,7 @@
 
 ⚡ I'm currently building [the Amp](https://docs.ridewithamp.com) to help keep bicyclists, scooter riders, and other micromobility users safe on city roads
 
-📝 I enjoy bringing fun project ideas to life and [writing about them](https://outlandnish.com/hacks)
+📝 I enjoy bringing fun physical and digital ideas to life and [writing about them](https://outlandnish.com/hacks)
 
 🚵‍♀️ You'll [find me outdoors](https://instagram.com/outlandnish) hiking, mountain biking, snowboarding, or e-skating
 
