@@ -6,7 +6,7 @@
 
 🚵‍♀️ You'll [find me outdoors](https://instagram.com/outlandnish) hiking, mountain biking, snowboarding, or e-skating
 
-🏎 I'm a grassroots racing driver and driving coach. I try my best to make related technology [more accessible](https://outlandnish.racing)
+🏎 I'm a grassroots racing driver and driving coach. I try my best to make related technology [more accessible](https://www.outlandnish.racing)
 
 🎶 I enjoy wandering to intimate concert venues and [discovering music](https://open.spotify.com/user/nishanthsamala?si=hdglQJ9LQlKRSQkxANMrhg)
 
