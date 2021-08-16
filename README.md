@@ -22,7 +22,7 @@ A browser extension to modernize F1 TV and to enable [Chromecast support](https:
 
 #### [Ghost Drive](https://github.com/outlandish/fw-ghost-drive)
 
-Macchina M2 firmware to convert your [car into a sim racing controller](https://outlandnish.com/blog/ditch-the-sim-rig-use-your-car-instead)
+Macchina M2 firmware to convert your [car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
 
 #### Immersive physical / digital experiences
 
