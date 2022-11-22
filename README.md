@@ -4,9 +4,9 @@ My name is Nishanth and I'm an engineer / CTO consultant at Blackbird Studios. I
 
 ### Projects I'm working on
 
-- [ReWheel](https://github.com/outlandnish/rewheel) OneWheel reverse engineering / patching tools to enable Right to Repair + other modifications
-- [The Amp](https://docs.ridewithamp.com) Reactive, customizable smart lighting for bicyclists, scooter riders, and other micromobility
-- [RaceKit](https://github.com/racekit) Modern motorsports management tools
+- [Rewheel](https://github.com/outlandnish/rewheel) - OneWheel reverse engineering / patching tools to enable Right to Repair + other modifications
+- [The Amp](https://docs.ridewithamp.com) - Reactive, customizable smart lighting for bicyclists, scooter riders, and other micromobility
+- [RaceKit](https://github.com/racekit) - Modern motorsports management tools
 - Subaru BRZ EV conversion
 
 ### (Some) Previous Projects
