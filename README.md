@@ -1,32 +1,19 @@
-### Hey, it's Nishanth - I'm a maker and mobility nut fascinated with the way people move around
+# Hi there!
 
-⚡ I'm currently building [the Amp](https://docs.ridewithamp.com) to help keep bicyclists, scooter riders, and other micromobility users safe on city roads
+My name is Nishanth and I'm an engineer / CTO consultant at Blackbird Studios. I love working with mobility, travel, and/or anything related to how people get around.
 
-📝 I enjoy bringing fun physical and digital ideas to life and [writing about them](https://outlandnish.com/hacks)
+### Projects I'm working on
 
-🚵‍♀️ You'll [find me outdoors](https://instagram.com/outlandnish) hiking, mountain biking, snowboarding, or e-skating
+- [ReWheel](https://github.com/outlandnish/rewheel) OneWheel reverse engineering / patching tools to enable Right to Repair + other modifications
+- [The Amp](https://docs.ridewithamp.com) Reactive, customizable smart lighting for bicyclists, scooter riders, and other micromobility
+- [RaceKit](https://github.com/racekit) Modern motorsports management tools
+- Subaru BRZ EV conversion
 
-🏎 I'm a grassroots racing driver and driving coach. I try my best to make related technology [more accessible](https://www.outlandnish.racing)
+### (Some) Previous Projects
 
-🎶 I enjoy wandering to intimate concert venues and [discovering music](https://open.spotify.com/user/nishanthsamala?si=hdglQJ9LQlKRSQkxANMrhg)
-
-### Projects I'm working on (and would love collaborators!)
-
-#### The Amp
-
-The [firmware](https://github.com/intentfulmotion/fw-amp), [web app](https://github.com/intentfulmotion/www-amp-mixer), and [hardware](https://github.com/intentfulmotion/hw-amp) for the Amp, my smart lighting product
-
-#### [F1 TV Playback Controls](https://github.com/outlandnish/ext-f1-tv)
-
-A browser extension to modernize F1 TV and to enable [Chromecast support](https://github.com/outlandnish/f1tv-cast-receiver)
-
-#### [Ghost Drive](https://github.com/outlandish/fw-ghost-drive)
-
-Macchina M2 firmware to convert your [car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
-
-#### Immersive physical / digital experiences
-
-Anything from laser harps to interactive window displays to fun combinations of mixed reality and physical props
+- [Ghost Drive](https://github.com/outlandnish/fw-ghost-drive) - Macchina M2 firmware to convert [your car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
+- [F1 TV Playback Controls](https://github.com/outlandnish/ext-f1-tv) - Browser extension to enable modern playback controls + Google Cast Support to F1 TV
+- [Strados](https://github.com/outlandnish/strados) - A library to transform car diagnostics data into a human readable form
 
 ### The Useful Bits
 
