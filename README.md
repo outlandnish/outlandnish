@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Nishanth and I do technical strategy + engineering at Blackbird Studios. I love working with mobility, travel, and/or anything related to how people get around.
+My name is Nishanth and I do technical strategy + engineering consulting at Blackbird Studios. I love working with mobility, travel, and/or anything related to how people get around.
 
 ### Projects I'm working on
 
