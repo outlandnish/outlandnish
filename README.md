@@ -4,7 +4,6 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 
 ### Projects I'm working on
 
-- I'm one of the authors of Rewheel, a repair oriented firmware modification tool for Onewheel self-balancing PEVs
 - [RaceKit](https://github.com/racekit) - Modern motorsports management tools
 - Subaru BRZ EV conversion
 - (unreleased group travel app)
