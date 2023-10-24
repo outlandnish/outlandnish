@@ -21,7 +21,7 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 - Intentful Motion. Startup idea to build smart lighting to help micromobility users communicate intentions on the road.
 - [AutonomouStuff](https://autonomoustuff.com/). Brief exploration into building embedded systems and retrofitting cars for self-driving research.
 - [Arity](https://www.arity.com/). Product Manager for the Driving Engine SDK which used phone sensors to understand driver behavior.
-- [Lumo](https://www.thinklumo.com/). Architected the systems for productionzing ML driven flight delay predictions for frequent fliers.
+- [Lumo](https://www.thinklumo.com/). Architected the systems for productionizing ML driven flight delay predictions for frequent fliers.
 - [AirMap](https://www.airmap.com). Co-designed / architected the first generation of services + maps for drones to safely interact with national airspace. Used by the FAA, DJI, and more.
 - [HERE Maps](https://www.here.com/). Applied R&D for large volume, ML based map feature identification and generation pipelines from GPS probe data sources.
 - Strados. Startup idea to humanize your car (Tamogatchi style) so that people could understand vehicle health.
