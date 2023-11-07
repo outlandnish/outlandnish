@@ -4,11 +4,11 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 
 ### Projects I'm working on
 
-- Travel friendly Onewheel
 - Subaru BRZ EV conversion
 
 ### (Some) Previous Projects
 
+- Travel friendly Onewheel. Battery pack that splits into TSA approved sizes + entire platform that splits into three to fit in carry on.
 - Rewheel. Web based firmware patching tools + patches to customize Onewheels. Currently pulled down
 - [The Amp](https://docs.ridewithamp.com) - Reactive, customizable smart lighting for bicyclists, scooter riders, and other micromobility
 - [Ghost Drive](https://github.com/outlandnish/fw-ghost-drive) - Macchina M2 firmware to convert [your car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
