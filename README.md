@@ -8,7 +8,7 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 
 ### (Some) Previous Projects
 
-- Travel friendly Onewheel. Battery pack that splits into TSA approved sizes + entire platform that splits into three to fit in carry on.
+- Modular Onewheel. VESC based design that splits into 3 (and has a split battery pack) that you can legally take onto flights.
 - Rewheel. Web based firmware patching tools + patches to customize Onewheels. Currently pulled down
 - [The Amp](https://docs.ridewithamp.com) - Reactive, customizable smart lighting for bicyclists, scooter riders, and other micromobility
 - [Ghost Drive](https://github.com/outlandnish/fw-ghost-drive) - Macchina M2 firmware to convert [your car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
