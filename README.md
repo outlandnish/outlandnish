@@ -5,6 +5,7 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 ### Projects I'm working on
 
 - Subaru BRZ EV conversion
+- Micromobility reference designs
 
 ### (Some) Previous Projects
 
@@ -14,16 +15,6 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 - [Ghost Drive](https://github.com/outlandnish/fw-ghost-drive) - Macchina M2 firmware to convert [your car into a sim racing controller](https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead)
 - [F1 TV Playback Controls](https://github.com/outlandnish/ext-f1-tv) - Browser extension to enable modern playback controls + Google Cast Support to F1 TV
 - [Strados](https://github.com/outlandnish/strados) - A library to transform car diagnostics data into a human readable form
-
-### Previous Affiliations
-
-- Intentful Motion. Startup idea to build smart lighting to help micromobility users communicate intentions on the road.
-- [AutonomouStuff](https://autonomoustuff.com/). Brief exploration into building embedded systems and retrofitting cars for self-driving research.
-- [Arity](https://www.arity.com/). Product Manager for the Driving Engine SDK which used phone sensors to understand driver behavior.
-- [Lumo](https://www.thinklumo.com/). Converted a research grade ML-driven flight delay predictions into a production grade API for frequent fliers.
-- [AirMap](https://www.airmap.com). Co-designed / architected the first generation of services + maps for drones to safely interact with national airspace. Used by the FAA, DJI, and more.
-- [HERE Maps](https://www.here.com/). Applied R&D for large volume, ML based map feature identification and generation pipelines from GPS probe data sources.
-- Strados. Startup idea to humanize your car (Tamogatchi style) so that people could understand vehicle health.
 
 ### The Useful Bits
 
