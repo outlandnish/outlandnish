@@ -18,5 +18,5 @@ My name is Nishanth and I do technical strategy + engineering consulting at Blac
 
 ### The Useful Bits
 
-- Contact: [hey@outlandnish.com](mailto:hey@outlandnish.com)
+- Contact: [contact@outlandnish.com](mailto:contact@outlandnish.com)
 - Pronouns: he/him
